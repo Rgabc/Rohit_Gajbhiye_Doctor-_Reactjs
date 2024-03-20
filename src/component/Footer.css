@@ -1,0 +1,11 @@
+.footerBox{
+    /* border: solid black 5px; */
+    height:13rem;
+    
+    
+}
+.footerFlex{
+    transform: translate(6rem,3rem);
+    border-bottom: solid rgb(246, 242, 242) 1px;
+    width:50rem;
+}

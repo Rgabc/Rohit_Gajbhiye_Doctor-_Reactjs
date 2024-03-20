@@ -1,0 +1,144 @@
+.appointForm{
+    width:25rem;
+    margin-left: 0rem;
+}
+.appointForm input{
+    border-radius: 5px;
+    box-shadow: 0px 2px 0px 2px #d4d9e8c5;
+}
+.appointForm select{
+    border-radius: 5px;
+    box-shadow: 0px 2px 0px 2px #d4d9e8c5;
+}
+.formBox{
+    background-color:#f7f9ff ;
+    width:27rem;
+}
+.formBox h5{
+    background-color: #007569;
+    color:white;
+    text-align: center;
+    width:26.8rem;
+    margin-left: -.7rem;
+
+}
+.patient{
+    width:25rem;
+
+}
+.sideSec{
+    margin-top: .3rem;
+}
+.appointForm textarea{
+    width:26rem;
+    height:6rem;
+}
+.appointForm button{
+    height:2.5rem;
+    width:11rem;
+    border-radius: 5px;
+    background-color:#276a7b;
+    color:white;
+    margin-left: 8rem;
+    border-radius: 5px;
+}
+.creditBox{
+    border-top: #007569 1px solid ;
+    border-bottom: #007569 1px solid ;
+    height:18rem;
+}
+.cardName{
+    transform: translate(5rem,2rem);
+    /* border:#007569 solid 2px; */
+    width:12rem;
+}
+.cardNumber{
+    transform: translate(40rem,2rem);
+    /* border:#007569 solid 2px; */
+    width:12rem;
+
+}
+.cvv{
+    transform: translate(40rem,8rem);
+    /* border:#007569 solid 2px; */
+    width:12rem;
+}
+.exp{
+    transform: translate(5rem,8rem);
+    /* border:#007569 solid 2px; */
+    width:12rem;
+}
+.cName input{
+    position: absolute;
+    z-index: .1;
+    border-radius: 7px;
+    border: solid 1px 
+    #d3e1e4;
+    height:2rem
+}
+.cName input::placeholder{
+    color: black;
+    font-weight: bold;
+}
+.cName label{
+    position: absolute;
+    color: #007569;
+    transform: translate(1rem,-.7rem);
+    z-index: 1;
+    background-color: white;
+    font-size: small;
+}
+.creditBox button{
+    background-color: white;
+    height: 2rem;
+    width:6rem;
+    border-radius: 6px;
+    color: #007569;
+    margin-left: 1rem;
+    transform: translate(22rem,12rem);
+}
+.creditBox button:hover{
+    background-color: #007569;
+    color: white;
+}
+.paypal{
+    border-bottom: #007569 solid 1px;
+    height:4rem
+}
+.paypal input{
+  
+    margin-top: 1rem;
+}
+.check{
+    border-radius: 50%;
+    transform: translate(28rem,0rem);
+}
+.checkBox{
+    border: #5a686c solid 1px;
+    width:28rem;
+    transform: translate(20rem,0rem);
+}
+.finalpic{
+    height:6rem;
+    width:5rem;
+    border-radius: 5px;
+    transform: translate(9rem,1rem);
+}
+.finalTitle{
+ 
+    width:7rem;
+    transform: translate(15rem,-5rem);
+}
+.finalTitle i{
+    transform: translate(7rem,-2.5rem);
+}
+.checkBox button{height:2.5rem;
+    width:11rem;
+    border-radius: 5px;
+    background-color:#276a7b;
+    color:white;
+    margin-left: 8rem;
+    border-radius: 5px;}
+    .table2{
+        transform: translate(7rem,-2rem);
+    }

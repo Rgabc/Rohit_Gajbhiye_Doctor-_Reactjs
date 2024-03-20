@@ -1,0 +1,15 @@
+.signTitle{
+    position: absolute;
+    transform: translate(28rem,0rem);
+}
+.signupData{
+    position: absolute;
+    width:15rem;
+    
+}
+.signbtn{
+    transform: translate(20rem,0rem);
+}
+.reg{
+    transform: translateX(20rem);
+}

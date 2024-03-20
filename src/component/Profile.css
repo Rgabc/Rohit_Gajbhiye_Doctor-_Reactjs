@@ -1,0 +1,130 @@
+
+.profile{
+    transform: translate(3rem,-8.7rem);
+}
+.userBox{
+    background-color:#007569 ;
+    height:10rem;
+    width:16rem;
+    transform: translate(-1rem,-6rem);
+    border-radius: 18px;
+    box-shadow: 0px 0px 2px 2px #b1b1b1;
+}
+.alan {
+    transform: translate(5.8rem,1.3rem);
+    border-radius: 50%;
+    height:4rem;
+    width:5rem;
+    
+}
+.userBox h5{
+    color:white;
+    transform: translate(7rem,1.2rem);
+}
+.userBox h6{
+    color:rgb(212, 209, 209);
+    transform: translate(5.5rem,1rem);
+
+}
+.his{
+    transform: translate(15rem,-15rem);
+    width:30rem
+}
+.appoint{
+    margin: 1.5rem;
+    color:white;
+    background-color: #276a7b;
+    width:30rem;
+    height:2rem;
+    transform: translate(6rem,-2.54rem);
+    cursor: pointer;
+}
+.appoint h6{
+    position: absolute;
+    margin-top: .3rem;
+    transform: translateX(3rem);
+}
+.appoint i{
+    transform: translate(1.2rem,.1rem);
+}
+.appoint p{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top:-.31rem;
+    right:1rem
+}
+.table1{
+    transform: translate(1rem,-15rem);
+}
+.table1 td{
+    color:#b1b1b1
+}
+.his button{
+    width:10rem;
+    border-radius: 5px;
+    background-color:#276a7b;
+    color:white;
+    transform: translate(16rem,0rem);
+}
+.updateSetting{
+ 
+    width:26rem;
+    transform: translate(22rem,-20rem);
+    background-color: #d3e1e4;
+}
+.none{display: none;}
+.updateSetting button{
+    width:26rem;
+    border-radius: 5px;
+    background-color:#276a7b;
+    color:white;
+}
+.updateSetting form{
+    transform: translateX(.5rem);
+}
+.sideSec{
+    position: absolute;
+    transform: translate(13rem,-6.5rem);
+}
+.history{
+    transform: translate(25rem,-15rem);
+    width:40rem;
+    
+}
+.history1{
+    border: #007569 solid 2px;
+    height:4rem;
+    border-radius: 6px;
+}
+.history1 h5{
+    margin-top:.6rem;
+    margin-left: 1rem;
+}
+.history1 h6{
+    position: absolute;
+    right: 1rem;
+    top:3rem;
+}
+.history1 p{
+    position: absolute;
+    font-size:.7rem;
+}
+.history button{
+    width:10rem;
+    border-radius: 5px;
+    background-color:#276a7b;
+    color:white;
+    transform: translate(28rem,-4rem);
+}
+.tableData{
+    transform: translate(0rem,-10rem);
+}
+.tableData td{
+    color:#b1b1b1
+}
+.history2 h6{
+    position: absolute;
+   transform: translate(0rem,5.5rem);
+}
+
+
